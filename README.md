@@ -27,8 +27,9 @@ sql-layoffs-analysis/
 ├── layoffs_raw.csv
 ├── layoffs_cleaned.csv
 ├── 01_data_cleaning.sql
-└── 02_exploratory_data_analysis.sql
+
+
+[View the raw dataset](layoffs.csv)
 
 
 [View the cleaned dataset](layoff_data_after_cleaning.csv)
-[View the raw dataset](layoffs.csv)
