@@ -30,4 +30,4 @@ sql-layoffs-analysis/
 └── 02_exploratory_data_analysis.sql
 
 
-[View the cleaned dataset](layoffs_cleaned.csv)
+[View the cleaned dataset](layoff_data_after_cleaning.csv)
