@@ -31,3 +31,4 @@ sql-layoffs-analysis/
 
 
 [View the cleaned dataset](layoff_data_after_cleaning.csv)
+[View the raw dataset](layoffs)
