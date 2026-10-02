@@ -19,3 +19,15 @@ After cleaning the data:
 | `DÃ¼sseldorf` | `Dusseldorf` |
 | `Crypto Currency` | `Crypto` |
 | `03/15/2023` | `2023-03-15` |
+
+
+sql-layoffs-analysis/
+│
+├── README.md
+├── layoffs_raw.csv
+├── layoffs_cleaned.csv
+├── 01_data_cleaning.sql
+└── 02_exploratory_data_analysis.sql
+
+
+[View the cleaned dataset](layoffs_cleaned.csv)
